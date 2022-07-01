@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: euraka-server
+
+
+server:
+  port: 8083
+
+eureka:
+  instance:
+    hostname: node03
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://node01:8081/eureka/,http://node02:8082/eureka/
