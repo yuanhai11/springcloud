@@ -1,0 +1,7 @@
+server:
+  port: 7373
+
+spring:
+  application:
+    name: springcloud-eureka-server
+

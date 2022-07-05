@@ -1,0 +1,11 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: springcloud-eureka-client
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7373/eureka

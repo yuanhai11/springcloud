@@ -1,0 +1,21 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: springcloud-eureka-feign
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7373/eureka/
+
+feign:
+  hystrix:
+    enabled: true
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
+
