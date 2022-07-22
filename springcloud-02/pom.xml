@@ -15,7 +15,6 @@
         <module>springcloud-eureka-ribbon</module>
         <module>springcloud-eureka-client2</module>
         <module>springcloud-hystrix-dashboard</module>
-        <module>springcloud-hystrix-dashboard</module>
         <module>springcloud-hytrix-dashboard</module>
     </modules>
     <parent>

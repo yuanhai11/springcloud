@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-02/springcloud-02.iml" filepath="$PROJECT_DIR$/springcloud-02/springcloud-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-02/springcloud-eureka-client/springcloud-eureka-client.iml" filepath="$PROJECT_DIR$/springcloud-02/springcloud-eureka-client/springcloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-02/springcloud-eureka-client2/springcloud-eureka-client2.iml" filepath="$PROJECT_DIR$/springcloud-02/springcloud-eureka-client2/springcloud-eureka-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-02/springcloud-eureka-feign/springcloud-eureka-feign.iml" filepath="$PROJECT_DIR$/springcloud-02/springcloud-eureka-feign/springcloud-eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-02/springcloud-eureka-ribbon/springcloud-eureka-ribbon.iml" filepath="$PROJECT_DIR$/springcloud-02/springcloud-eureka-ribbon/springcloud-eureka-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-02/springcloud-eureka-server/springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-02/springcloud-eureka-server/springcloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-02/springcloud-hytrix-dashboard/springcloud-hytrix-dashboard.iml" filepath="$PROJECT_DIR$/springcloud-02/springcloud-hytrix-dashboard/springcloud-hytrix-dashboard.iml" />
+    </modules>
+  </component>
+</project>
